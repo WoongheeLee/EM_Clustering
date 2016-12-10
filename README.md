@@ -1,5 +1,7 @@
 # EM Cluster
 
+1-D EM algorithm was implemented
+
 Data:
 
  * https://cs.joensuu.fi/sipu/datasets/
