@@ -1,10 +1,14 @@
-# EM Cluster
-================
-1-D EM algorithm was implemented
+# EM 클러스터링 알고리즘 구현
+=====
 
-Data:
+1차원 데이터, EM 클러스터링 알고리즘 구현
+
+데이터
 -----------------
 - https://cs.joensuu.fi/sipu/datasets/
 - g-2 set, 1-D
 
-2-D EM algorithm is not implemented yet!
+
+구현에서 개선해야할 점
+-----------
+E-스텝과 M-스텝을 나눠서 구현하지 않고 동시에 구현 가능함(메모리 절약)
